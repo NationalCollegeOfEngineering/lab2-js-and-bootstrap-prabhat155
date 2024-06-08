@@ -306,7 +306,7 @@
     <p class="mt-5 mb-3 text-body-secondary">Already have an account? <a href="login-page.php">Login</a></p>
     <p class="mt-5 mb-3 text-body-secondary">&copy; 2017–2024</p>
   </form>
-    </div>
+  </div>
 
   
 
